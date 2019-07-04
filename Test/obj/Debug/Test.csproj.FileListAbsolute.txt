@@ -1,0 +1,6 @@
+E:\MyProgram\Aptech\Subject\25_CShap\repos\Test\Test\bin\Debug\Test.exe
+E:\MyProgram\Aptech\Subject\25_CShap\repos\Test\Test\bin\Debug\Test.pdb
+E:\MyProgram\Aptech\Subject\25_CShap\repos\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\MyProgram\Aptech\Subject\25_CShap\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\MyProgram\Aptech\Subject\25_CShap\repos\Test\Test\obj\Debug\Test.exe
+E:\MyProgram\Aptech\Subject\25_CShap\repos\Test\Test\obj\Debug\Test.pdb
